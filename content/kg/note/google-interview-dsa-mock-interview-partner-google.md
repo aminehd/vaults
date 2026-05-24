@@ -1,0 +1,52 @@
+---
+id: note/google-interview-dsa-mock-interview-partner-google
+type: note
+title: Google Interview — Dsa Mock Interview Partner Google
+tags: [google, interview]
+source_url: https://leetcode.com/discuss/post/7639416/dsa-mock-interview-partner-google-by-ano-oqyi/
+updated: 2026-05-24
+---
+
+# Google Interview — Dsa Mock Interview Partner Google
+
+Hi everyone,
+
+I’m currently preparing for Google and looking for a serious interview buddy to practice consistently.
+
+About me:
+
+• 2.8 years of experience in C# Backend at a FinTech
+
+• LeetCode Knight, used to do competitive programming (Expert at Codeforces)
+
+• Got rejected by google last year
+
+• Currently on notice period
+
+I’m planning to form a small group of 3 serious candidates so we can conduct structured mock interviews and genuinely improve together.
+
+What I’m looking for:
+
+• Someone Good in DSA
+
+• Serious about cracking Google
+
+How I’m thinking we can practice:
+
+• Timed mock interviews
+
+• Discuss approach, optimizations, trade-offs, and edge cases
+
+• Cross-questioning similar to real interviews
+
+• 1 sessions daily or a few sessions per week (we can decide mutually)
+
+If you’re genuinely serious and ready to commit, please fill the form below:
+
+Form Link:
+
+[https://forms.gle/Niy9p7u5iSzSHuNx7](https://leetcode.com/link/?target=https%3A%2F%2Fforms.gle%2FNiy9p7u5iSzSHuNx7)
+
+0
+
+8

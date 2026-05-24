@@ -1,0 +1,24 @@
+---
+id: note/google-interview-compensation-at-google
+type: note
+title: Google Interview — Compensation At Google
+tags: [google, interview]
+source_url: https://leetcode.com/discuss/post/7602545/compensation-at-google-by-anonymous_user-019s/
+updated: 2026-05-24
+---
+
+# Google Interview — Compensation At Google
+
+I have close to 5 yrs of experience. I have worked in two big tech companies - both among MAANG.
+
+I have cleared phone screen interview of Google. I am appearing for L4 position. And while discussing compensation range before interviews they are saying the range is 60LPA to 70LPA. But I already have compensation in this range. What shocked me the most is the split - 32-36LPA base and equity 45k-60k. I am already earning 46LPA base and 50-60k equity. Should I proceed with Google onsite?
+
+Even with compete offer they are saying there would strictly be no room for negotiation. I have compete offer from Meta. And the recruiter also wants in written that I accept to take onsite interview for the compensation range of 60LPA to 70LPA. I am not even entry level L4 - I have experience close to Senior.
+
+Is this the range for Google L4 these days or am I being lowballed?
+
+Why confirmation in written?
+
+1
+
+9

@@ -1,0 +1,22 @@
+---
+id: note/google-interview-google-virtual-onsite-deny
+type: note
+title: Google Interview — Google Virtual Onsite Deny
+tags: [google, interview]
+source_url: https://leetcode.com/discuss/post/7643272/google-virtual-onsite-deny-by-anonymous_-6vgl/
+updated: 2026-05-24
+---
+
+# Google Interview — Google Virtual Onsite Deny
+
+Hi,
+
+i would like to know that i know google understand employees, interviwee conditions better. but when i demand oniste virtual having situation then after many mails she constantly denies , i think she is no mood of doing it. they are mentioning it in their mails "Should a conflict or emergency arise, contact me right away."
+
+now let see what she last mail i do her was to shift atleast inperson to gurgaon as job location is gurgaon ?
+
+any suugesstions is i am asking too much , she frustated or anthing else?
+
+3
+
+1

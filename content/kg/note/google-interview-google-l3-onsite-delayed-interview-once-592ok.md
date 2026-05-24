@@ -1,0 +1,46 @@
+---
+id: note/google-interview-google-l3-onsite-delayed-interview-once-592ok
+type: note
+title: Google Interview — Google L3 Onsite Delayed Interview Once 592Ok
+tags: [google, interview]
+source_url: https://leetcode.com/discuss/post/7544550/google-l3-onsite-delayed-interview-once-592ok/
+updated: 2026-05-24
+---
+
+# Google Interview — Google L3 Onsite Delayed Interview Once 592Ok
+
+I was feeling not well and under prepared during the original interview day, so I emailed the recruiter and delayed the interview once.
+
+Still nervious for this interview, and I got a time-series / interpolation style question (GPS-ish coordinates).
+
+Here's what was asked:
+
+```sql
+There were two sorted streams by timestamp:
+- a small set of “ground truth” checkpoints
+- a set of noisy measured samples
+
+Goal was to compute an overall error metric by, for each sample:
+- locating the surrounding checkpoints in time
+- interpolating the expected position at that timestamp
+- computing distance error and summing across samples
+
+What helped:
+Two pointers scanning both arrays in one pass (O(n+m)) instead of doing a binary search per sample.
+
+Edge cases I discussed:
+- samples exactly on a checkpoint time
+- multiple samples between the same two checkpoints
+- zero time delta between checkpoints (avoid divide-by-zero)
+- samples outside the checkpoint range (clarify expected behavior)
+```
+
+Pretty similar to a problem I practiced [here](https://leetcode.com/link/?target=https%3A%2F%2Fofferretriever.com%2Fquestions%2F18)
+
+I think the interview went pretty well since I had seen a similar problem. So glad that I pushed it and just happen to worked out and got the question that I've practiced before.
+
+Best of luck to everyone else with their Google interviews.
+
+16
+
+11

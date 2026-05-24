@@ -1,0 +1,35 @@
+---
+id: note/google-interview-career-suggestion-appreciated
+type: note
+title: Google Interview — Career Suggestion Appreciated
+tags: [google, interview]
+source_url: https://leetcode.com/discuss/post/7638768/career-suggestion-appreciated-by-anonymo-bjg3/
+updated: 2026-05-24
+---
+
+# Google Interview — Career Suggestion Appreciated
+
+Hello reader, I would be providing my current situation considering so I will appreciate it if you would give some genuine advice.
+
+Experience: Currently in a service based company with 9 months of exp in java backend.
+
+Current salary: 4LPA.
+
+Tech knowledge: Java, Spring, Springboot, MERN, microsoft AI 900 certified.
+
+DSA: Just started preping fron last week.
+
+Aspiration: SWE in GCC companies. Paying more than 12LPA.
+
+Question:
+
+1. Can I crack it in next 9 months? Provided I will continue with my dsa.
+
+2. Is it possible to be hired in such less experience ? cause i barely see any opening for 1-2 yoe.
+
+3. Any tips to be noticed or approached by companies over linkedin.
+
+
+2
+
+1
