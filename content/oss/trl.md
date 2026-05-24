@@ -4,7 +4,7 @@ display: TRL
 area: training
 stars: 18456
 commits_7d: 23
-tags: [oss, training, python, pytorch, llm-fine-tuning]
+tags: [oss, training, python, pytorch]
 source_url: https://github.com/huggingface/trl
 updated: 2026-05-24
 ---

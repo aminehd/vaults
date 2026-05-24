@@ -4,7 +4,7 @@ display: SGLang
 area: inference
 stars: 28185
 commits_7d: 100
-tags: [oss, inference, python, cuda, vllm-basics]
+tags: [oss, inference, python, cuda, transformers]
 source_url: https://github.com/sgl-project/sglang
 updated: 2026-05-24
 ---

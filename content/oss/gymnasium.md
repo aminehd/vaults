@@ -4,7 +4,7 @@ display: Gymnasium
 area: rl
 stars: 11937
 commits_7d: 0
-tags: [oss, rl, python, agents]
+tags: [oss, rl, python]
 source_url: https://github.com/Farama-Foundation/Gymnasium
 updated: 2026-05-24
 ---

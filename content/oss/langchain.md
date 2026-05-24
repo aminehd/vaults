@@ -4,7 +4,7 @@ display: LangChain
 area: agents
 stars: 137545
 commits_7d: 71
-tags: [oss, agents, python, langchain, rag]
+tags: [oss, agents, python, rag]
 source_url: https://github.com/langchain-ai/langchain
 updated: 2026-05-24
 ---

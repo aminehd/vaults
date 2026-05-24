@@ -4,7 +4,7 @@ display: Unsloth
 area: training
 stars: 65073
 commits_7d: 100
-tags: [oss, training, python, pytorch, triton, llm-fine-tuning]
+tags: [oss, training, python, pytorch, triton]
 source_url: https://github.com/unslothai/unsloth
 updated: 2026-05-24
 ---

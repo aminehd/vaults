@@ -4,7 +4,7 @@ display: Triton
 area: kernels
 stars: 19262
 commits_7d: 20
-tags: [oss, kernels, python, cuda, pytorch]
+tags: [oss, kernels, python, cuda]
 source_url: https://github.com/openai/triton
 updated: 2026-05-24
 ---

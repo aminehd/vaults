@@ -4,7 +4,7 @@ display: Transformers
 area: training
 stars: 160929
 commits_7d: 41
-tags: [oss, training, python, pytorch, transformers]
+tags: [oss, training, python, pytorch]
 source_url: https://github.com/huggingface/transformers
 updated: 2026-05-24
 ---

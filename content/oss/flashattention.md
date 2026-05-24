@@ -1,10 +1,10 @@
 ---
 id: oss/flashattention
 display: FlashAttention
-area: training
+area: kernels
 stars: 23885
 commits_7d: 5
-tags: [oss, training, cuda, c, transformers]
+tags: [oss, kernels, cuda, c]
 source_url: https://github.com/Dao-AILab/flash-attention
 updated: 2026-05-24
 ---
