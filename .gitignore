@@ -3,3 +3,4 @@ crawler.db-shm
 crawler.db-wal
 *.tmp-*
 .DS_Store
+db/
