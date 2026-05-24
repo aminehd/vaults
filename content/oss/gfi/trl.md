@@ -1,0 +1,17 @@
+---
+repo: "TRL"
+slug: trl
+gfi_count: 0
+commits_7d: 23
+updated: 2026-05-24
+---
+
+# TRL — Good First Issues
+
+**0 open** · **23 commits this week** · [All GFIs](https://github.com/huggingface/trl/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
+
+← [[../trl|Back to TRL]]
+
+## Open Issues
+
+*No good first issues open right now.*
