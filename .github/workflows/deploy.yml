@@ -36,7 +36,7 @@ jobs:
           cp quartz.config.ts /tmp/quartz/quartz.config.ts
 
       - name: Build
-        run: npx --prefix /tmp/quartz quartz build
+        run: cd /tmp/quartz && npx quartz build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
