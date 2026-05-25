@@ -2,7 +2,7 @@
 repo: "PEFT"
 slug: peft
 commits_7d: 9
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # PEFT — Recent Commits (7d)

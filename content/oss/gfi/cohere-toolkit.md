@@ -3,7 +3,7 @@ repo: "Cohere Toolkit"
 slug: cohere-toolkit
 gfi_count: 3
 commits_7d: 0
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Cohere Toolkit — Good First Issues

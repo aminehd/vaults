@@ -3,7 +3,7 @@ repo: "Qwen2.5"
 slug: qwen25
 gfi_count: 0
 commits_7d: 0
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Qwen2.5 — Good First Issues

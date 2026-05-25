@@ -1,18 +1,22 @@
 ---
 repo: "TRL"
 slug: trl
-commits_7d: 23
-updated: 2026-05-24
+commits_7d: 27
+updated: 2026-05-25
 ---
 
 # TRL — Recent Commits (7d)
 
-**23 commits this week** · [GitHub](https://github.com/huggingface/trl/commits)
+**27 commits this week** · [GitHub](https://github.com/huggingface/trl/commits)
 
 ← [[../trl|Back to TRL]]
 
 ## Commits
 
+- `a0d909b` [⬆️ Bump dev version (#5836)](https://github.com/huggingface/trl/commit/a0d909b1a099b4cf52ee12648142a4cd7d39ca04) — Quentin Gallouédec · 2026-05-25
+- `bd1e73f` [Release: v1.5 (#5835)](https://github.com/huggingface/trl/commit/bd1e73f0a86443d40ab8dc82b0cf8f8694246565) — Quentin Gallouédec · 2026-05-25
+- `fb9cb79` [Add Qwen3.5 Think/NoThink training chat templates with generation markers (#5824)](https://github.com/huggingface/trl/commit/fb9cb790b144a9a3a3a90b7f3c32572157ba0398) — Alexandr Azizyan · 2026-05-25
+- `9e80cab` [Fix `OpenRewardSpec` omitting task‑scoped tools during rollout binding (fixes #5727) (#5729)](https://github.com/huggingface/trl/commit/9e80cab78333b8a9ed160056f0d082b25d01d7da) — swappy · 2026-05-25
 - `7877695` [Migrate tests to Qwen3.5 Think/NoThink fixtures (#5821)](https://github.com/huggingface/trl/commit/78776953c1c49253787ea04c23e9390ffd14fe02) — Alexandr Azizyan · 2026-05-22
 - `0fcc5e2` [Add tiny Qwen3.5 Think/NoThink fixture generation scripts (#5819)](https://github.com/huggingface/trl/commit/0fcc5e2cd66b54db542ede1049dc00ad7618ede4) — Alexandr Azizyan · 2026-05-22
 - `43bd8f5` [Align KTO with DPO: Align _compute_loss_liger flow (#5816)](https://github.com/huggingface/trl/commit/43bd8f53f331c29a2ee5f6f02a221421e51b9a4a) — Albert Villanova del Moral · 2026-05-22
@@ -29,7 +33,3 @@ updated: 2026-05-24
 - `bbb3976` [Fix OOM in CI by reducing batch size in GRPO/RLOO VLM tests (#5767)](https://github.com/huggingface/trl/commit/bbb39766cf36a7c42031a91d3fdd97478992a939) — Albert Villanova del Moral · 2026-05-21
 - `4dddc63` [Fix tiny Qwen3-VL `deepstack_visual_indexes` and drop the test skip (#5779)](https://github.com/huggingface/trl/commit/4dddc63e4756bdfa7305babfd4d792d094a8626b) — Quentin Gallouédec · 2026-05-21
 - `afad4d9` [Align tiny Qwen2.5-VL with Qwen/Qwen2.5-VL-3B-Instruct (#5739)](https://github.com/huggingface/trl/commit/afad4d92a8d8aab40f015a9d7ddcba93bfb3a6ec) — Quentin Gallouédec · 2026-05-21
-- `f6e5c11` [Add Qwen3-VL training chat template with generation markers (#5764)](https://github.com/huggingface/trl/commit/f6e5c110cefef9fcc00f042f1e36570e74c88648) — Alexandr Azizyan · 2026-05-20
-- `5adf6f5` [Add telemetry to trainers (#5758)](https://github.com/huggingface/trl/commit/5adf6f5a28eed07f2577d73d0794f15e8c9ea0c7) — Quentin Gallouédec · 2026-05-20
-- `797a46e` [Fix exponential backtracking in qwen3 / qwen3_5 / glm4moe response parsing (#5798)](https://github.com/huggingface/trl/commit/797a46edf6415226b2f4e41a21b9c097f8e2ae3f) — Junhyuk Lee · 2026-05-20
-- `e2d6761` [Fix OOM in CI by reducing batch size and sequence length for toolcall tests (#5801)](https://github.com/huggingface/trl/commit/e2d6761cf128078e219ea71ceb72438f61b94055) — Albert Villanova del Moral · 2026-05-20

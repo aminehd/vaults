@@ -1,18 +1,27 @@
 ---
 repo: "Transformers"
 slug: transformers
-commits_7d: 41
-updated: 2026-05-24
+commits_7d: 37
+updated: 2026-05-25
 ---
 
 # Transformers — Recent Commits (7d)
 
-**41 commits this week** · [GitHub](https://github.com/huggingface/transformers/commits)
+**37 commits this week** · [GitHub](https://github.com/huggingface/transformers/commits)
 
 ← [[../transformers|Back to Transformers]]
 
 ## Commits
 
+- `eaaaf84` [Fix path traversal when saving named chat templates (#46191)](https://github.com/huggingface/transformers/commit/eaaaf8494dd5386634ae37d1d122212fdc315be5) — Ziyu Lin · 2026-05-25
+- `47949d3` [Fix is_last off-by-one in MaskGenerationPipeline for partial batches (#46136)](https://github.com/huggingface/transformers/commit/47949d3a0e1cf9248f2a3eb3cd0deb12ee37b9e9) — Jeremy Perera · 2026-05-25
+- `118ddfb` [Fix wrong variable in check_model_type isinstance check (#46080)](https://github.com/huggingface/transformers/commit/118ddfb69cc9911255e6d3465f61c78d1627102b) — Sebastien Tardif · 2026-05-25
+- `0b2da85` [Enable passing kwargs through RoFormer models (#46171)](https://github.com/huggingface/transformers/commit/0b2da85d4e8ec7f3e10606d0955ca127cabd4b7d) — ir2718 · 2026-05-25
+- `e65c3a2` [Update cohere2_moe tp_plan (#46189)](https://github.com/huggingface/transformers/commit/e65c3a2d1461e6c43f6f5d4157c583846f63f71d) — Cyril Vallez · 2026-05-25
+- `e4b2983` [Update release tool (#46193)](https://github.com/huggingface/transformers/commit/e4b2983002bbb9d1fe82de3ddf6f820d67b5a726) — Cyril Vallez · 2026-05-25
+- `a214caa` [[loading] Fix base_model_prefix issues in conversions (#46067)](https://github.com/huggingface/transformers/commit/a214caa386c7835cddc9455df974246737bcbf75) — Cyril Vallez · 2026-05-25
+- `7f2c8c9` [Fix caching allocator warmup byte estimation for EP model loading (#46149)](https://github.com/huggingface/transformers/commit/7f2c8c904f56a8a7100d90948071a18baedc4c41) — Wang, Yi · 2026-05-25
+- `a31fc72` [Bump dev version (#46188)](https://github.com/huggingface/transformers/commit/a31fc7277a436ee96c0092d55dc3473ad6a3d54b) — Cyril Vallez · 2026-05-25
 - `1055551` [Fix image-segmentation pipeline support for RF-DETR (#46130)](https://github.com/huggingface/transformers/commit/10555512868d663ee1ff627e4f5c5c260114235b) — Yoni Gozlan · 2026-05-21
 - `797bb0d` [Update self-comment-ci (#46137)](https://github.com/huggingface/transformers/commit/797bb0d6c6478615eb89bd0e6ee41628b9059ceb) — guarin · 2026-05-21
 - `52b82b2` [[ALM] flaky alm tests (#46074)](https://github.com/huggingface/transformers/commit/52b82b299171721fbe7b04fe056187f7aed2e2cc) — eustlb · 2026-05-20
@@ -24,12 +33,3 @@ updated: 2026-05-24
 - `5fc9bba` [[docs] reasoning support for transformers serve (#46094)](https://github.com/huggingface/transformers/commit/5fc9bba7fec03cdb663d30822dde095b4ed26810) — Steven Liu · 2026-05-20
 - `f4c5ae1` [Fix torchao behavior for xpu (#46096)](https://github.com/huggingface/transformers/commit/f4c5ae11c77b20e997a270329779f1dca472e35e) — jiqing-feng · 2026-05-20
 - `883c731` [🚨🚨🚨 [Trainer] Default to FSDP2, simplify API around fsdp + fsdp_config (#45640)](https://github.com/huggingface/transformers/commit/883c731bcacbbfe14babe7b9a60d5b9994708870) — Marc Sun · 2026-05-20
-- `ba06e3f` [:rotating_light: Modularize `ProcessorMixin` into smaller components (#45493)](https://github.com/huggingface/transformers/commit/ba06e3fbdf355c363ac067ebcda210017e90a852) — Raushan Turganbay · 2026-05-20
-- `948990b` [Remove accidentally added `tmp.py` (#46087)](https://github.com/huggingface/transformers/commit/948990bd1c52b0033a586e5b12040ee3c2eacc61) — Harry Mellor · 2026-05-20
-- `a0fb01c` [Fix post processing RF-DETR (#46041)](https://github.com/huggingface/transformers/commit/a0fb01c6cda2301cb54de0efde5fac405836c4fe) — Yoni Gozlan · 2026-05-19
-- `b797f0d` [[Model] Add PP-OCRv6 Models Support (#45838)](https://github.com/huggingface/transformers/commit/b797f0d4c74ded2e368bbc971c4aaca9004318cc) — zhang-prog · 2026-05-19
-- `9ba8e85` [FSDP + TP & native save/load distributed (#45028)](https://github.com/huggingface/transformers/commit/9ba8e8585bbf6ed4c10455ef59c51c0da5f0b85f) — Ferdinand Mom · 2026-05-19
-- `0b25f8c` [[serve] Support for reasoning  (#45690)](https://github.com/huggingface/transformers/commit/0b25f8c49c37530ce9f8742d7a8c19ed8d254d7d) — Marc Sun · 2026-05-19
-- `0df9b7f` [Fix Gemma4 generation from inputs_embeds and per_layer_inputs (#46049)](https://github.com/huggingface/transformers/commit/0df9b7fcaab447c75543598e6d959065c2296a24) — Cyril Vallez · 2026-05-19
-- `38a8b55` [Parakeet tdt (#44171)](https://github.com/huggingface/transformers/commit/38a8b55f22d593c103e8bcc616413e70a5ef03ca) — Maksym Lypivskyi · 2026-05-19
-- `3428030` [Remove mask visualization tool from `masking_utils.py` (#46066)](https://github.com/huggingface/transformers/commit/3428030a179620b01cb598928b6cc7d5e5e60990) — Cyril Vallez · 2026-05-19

@@ -1,18 +1,19 @@
 ---
 repo: "DSPy"
 slug: dspy
-commits_7d: 9
-updated: 2026-05-24
+commits_7d: 10
+updated: 2026-05-25
 ---
 
 # DSPy — Recent Commits (7d)
 
-**9 commits this week** · [GitHub](https://github.com/stanfordnlp/dspy/commits)
+**10 commits this week** · [GitHub](https://github.com/stanfordnlp/dspy/commits)
 
 ← [[../dspy|Back to DSPy]]
 
 ## Commits
 
+- `e608bc0` [Normalize DSPy LM errors (#9826)](https://github.com/stanfordnlp/dspy/commit/e608bc024c8ede143d1dba877106ba6e22a7222b) — Maxime Rivest · 2026-05-25
 - `77cb233` [Make BaseLM own shared LM runtime state (#9821)](https://github.com/stanfordnlp/dspy/commit/77cb233156edebcaec7338422745316f8c5e70cd) — Maxime Rivest · 2026-05-24
 - `492c559` [Support BaseLM state serialization (#9820)](https://github.com/stanfordnlp/dspy/commit/492c5597a823a1a0f593283776d77773c482f70e) — Maxime Rivest · 2026-05-24
 - `ee2c580` [Introduce normalized LM boundary for adapters (#9802)](https://github.com/stanfordnlp/dspy/commit/ee2c5803a20eaf4fb0dad751c6f40da3b6099197) — Maxime Rivest · 2026-05-23

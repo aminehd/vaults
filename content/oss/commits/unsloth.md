@@ -1,18 +1,20 @@
 ---
 repo: "Unsloth"
 slug: unsloth
-commits_7d: 100
-updated: 2026-05-24
+commits_7d: 84
+updated: 2026-05-25
 ---
 
 # Unsloth — Recent Commits (7d)
 
-**100 commits this week** · [GitHub](https://github.com/unslothai/unsloth/commits)
+**84 commits this week** · [GitHub](https://github.com/unslothai/unsloth/commits)
 
 ← [[../unsloth|Back to Unsloth]]
 
 ## Commits
 
+- `af6504f` [fix(chat_templates): check find() return value before slicing on placeholders (#5763)](https://github.com/unslothai/unsloth/commit/af6504f900fe611a056e66eec6ab74976eab7f34) — Ricardo-M-L · 2026-05-25
+- `748aa1c` [fix: repair mlx studio base export save_method (#5727)](https://github.com/unslothai/unsloth/commit/748aa1c482cb4c855314c4dda3119a6ce04010a8) — Long Yixing · 2026-05-25
 - `eeb49d5` [Bump install.sh / install.ps1 pin to unsloth>=2026.5.7 (#5753)](https://github.com/unslothai/unsloth/commit/eeb49d54b8d801a1ce922fa15f778e2bad205db0) — Daniel Han · 2026-05-24
 - `9c5d751` [Fixes](https://github.com/unslothai/unsloth/commit/9c5d751c667c874b519f5dc031320b01b709bf4b) — Daniel Han · 2026-05-24
 - `f7f540a` [Studio: strip orphan tool_call XML leaking into visible content (#5735)](https://github.com/unslothai/unsloth/commit/f7f540a58b853d262ec7ba90c9c0af5e742cc696) — Daniel Han · 2026-05-24
@@ -31,5 +33,3 @@ updated: 2026-05-24
 - `51736a7` [Studio: add Anthropic and OpenAI prompt guards for disabled tools (#5674)](https://github.com/unslothai/unsloth/commit/51736a776692c7aaff9dff7269677aceb2cc01c2) — Lee Jackson · 2026-05-22
 - `228d1cd` [Studio: persist external provider selection across page refresh (#5697)](https://github.com/unslothai/unsloth/commit/228d1cd40ceb05b2cdae41f913aa22528439bc88) — Daniel Han · 2026-05-22
 - `a226b7e` [Studio: reconcile external providers across browsers after delete (#5698)](https://github.com/unslothai/unsloth/commit/a226b7e7e9904bf43c0029b94b18c0a729809135) — Daniel Han · 2026-05-22
-- `ebe504b` [Studio: PDF / document attachments for Anthropic + OpenAI (#5689)](https://github.com/unslothai/unsloth/commit/ebe504b558970caf9fda6ed0511cc474ff57fa76) — Daniel Han · 2026-05-22
-- `e86f3c5` [Studio: wire OpenAI Responses server-side context compaction (#5687)](https://github.com/unslothai/unsloth/commit/e86f3c5dc7329a75fcf1d158130818d61d247378) — Daniel Han · 2026-05-22

@@ -1,13 +1,13 @@
 ---
 repo: "LangChain"
 slug: langchain
-commits_7d: 71
-updated: 2026-05-24
+commits_7d: 69
+updated: 2026-05-25
 ---
 
 # LangChain — Recent Commits (7d)
 
-**71 commits this week** · [GitHub](https://github.com/langchain-ai/langchain/commits)
+**69 commits this week** · [GitHub](https://github.com/langchain-ai/langchain/commits)
 
 ← [[../langchain|Back to LangChain]]
 

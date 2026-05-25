@@ -3,7 +3,7 @@ repo: "PEFT"
 slug: peft
 gfi_count: 1
 commits_7d: 9
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # PEFT — Good First Issues
@@ -14,4 +14,4 @@ updated: 2026-05-24
 
 ## Open Issues
 
-- [Comparison of Different Fine-Tuning Techniques for Conversational AI](https://github.com/huggingface/peft/issues/2310) — 502d old
+- [Comparison of Different Fine-Tuning Techniques for Conversational AI](https://github.com/huggingface/peft/issues/2310) — 503d old

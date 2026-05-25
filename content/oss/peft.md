@@ -6,7 +6,7 @@ stars: 21182
 commits_7d: 9
 tags: [oss, training, python, pytorch]
 source_url: https://github.com/huggingface/peft
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # PEFT

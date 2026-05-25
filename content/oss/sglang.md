@@ -2,11 +2,11 @@
 id: oss/sglang
 display: SGLang
 area: inference
-stars: 28185
+stars: 28228
 commits_7d: 100
 tags: [oss, inference, python, cuda, transformers]
 source_url: https://github.com/sgl-project/sglang
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # SGLang

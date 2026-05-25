@@ -2,7 +2,7 @@
 repo: "bitsandbytes"
 slug: bitsandbytes
 commits_7d: 2
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # bitsandbytes — Recent Commits (7d)

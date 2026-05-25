@@ -6,7 +6,7 @@ stars: 3175
 commits_7d: 0
 tags: [oss, agents, python, rag]
 source_url: https://github.com/cohere-ai/cohere-toolkit
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Cohere Toolkit

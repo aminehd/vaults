@@ -3,7 +3,7 @@ repo: "Triton"
 slug: triton
 gfi_count: 0
 commits_7d: 20
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # Triton — Good First Issues

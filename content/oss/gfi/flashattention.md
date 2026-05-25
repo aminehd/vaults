@@ -3,7 +3,7 @@ repo: "FlashAttention"
 slug: flashattention
 gfi_count: 0
 commits_7d: 5
-updated: 2026-05-24
+updated: 2026-05-25
 ---
 
 # FlashAttention — Good First Issues

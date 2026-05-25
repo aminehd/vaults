@@ -22,7 +22,7 @@ Huge ecosystem, always needs integration contributions (new tools, retrievers).
   > ### Submission checklist  - [x] This is a bug, not a usage question. - [x] I added a clear and descriptive title that summarizes this issue. - [x] I used the GitHub search to find a similar question a
 
 - **[#37533 feat(partners): ContextOverflowError for Groq/Mistral + standard test coverage](https://github.com/langchain-ai/langchain/issues/37533)** `standard-tests` `feature request` `groq` `mistralai` `external`
-  opened 2026-05-19 · 2 comments
+  opened 2026-05-19 · 3 comments
   > ### Submission checklist  - [x] This is a feature request, not a bug report or usage question. - [x] I added a clear and descriptive title that summarizes the feature request. - [x] I used the GitHub 
 
 - **[#37452 `Chroma.update_document()` fails when `Document` metadata is omitted](https://github.com/langchain-ai/langchain/issues/37452)** `bug` `chroma` `external`
