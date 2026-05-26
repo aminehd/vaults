@@ -17,5 +17,5 @@ updated: 2026-05-26
 - [Docs: current Codex local llama.cpp guide does not work as written with Responses API](https://github.com/unslothai/unsloth/issues/5141) — 32d old
 - [[Feature] Model Management in Unsloth Studio - Delete & Update Models](https://github.com/unslothai/unsloth/issues/5098) — 38d old
 - [[Feature] Unsloth studio: Set dataset streaming mode](https://github.com/unslothai/unsloth/issues/4903) — 48d old
-- [[Feature] Draft model / speculative decoding](https://github.com/unslothai/unsloth/issues/4753) — 54d old
+- [[Feature] Draft model / [[../concepts/speculative-decoding|speculative decoding]]](https://github.com/unslothai/unsloth/issues/4753) — 54d old
 - [[Feature] Unsloth/ Whisper/Large-v3 - S3 Bucket connection](https://github.com/unslothai/unsloth/issues/4539) — 63d old

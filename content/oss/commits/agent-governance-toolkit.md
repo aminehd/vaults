@@ -14,7 +14,9 @@ updated: 2026-05-26
 ## Commits
 
 - `4fa15d4` [docs: replace unsourced red-team percentages with cited references (#2577) (#2586)](https://github.com/microsoft/agent-governance-toolkit/commit/4fa15d4efcd7f135875f31cf296c9505af9d8021) — Ricky Gummadi · 2026-05-26
+→ touches: `docs/` — improves the documentation by adding citations for red-teaming statistics.
 - `25cc862` [docs: consolidate OWASP and compliance documentation under docs/compliance/ (#2584)](https://github.com/microsoft/agent-governance-toolkit/commit/25cc8624a09d465ebe4f16222ba52bfe7724ae52) — Ricky Gummadi · 2026-05-26
+→ touches: `docs/` — reorganizes the documentation to better structure compliance-related information.
 - `66e1f16` [feat(golang): credential injection and offload (#2535) (#2583)](https://github.com/microsoft/agent-governance-toolkit/commit/66e1f16e2e19a7ab5db6c4287c055998bd392511) — Imran Siddique · 2026-05-25
 - `818326d` [feat(rust): credential injection and offload (#2535) (#2582)](https://github.com/microsoft/agent-governance-toolkit/commit/818326df03f857814055b852af3b11e3844de481) — Imran Siddique · 2026-05-25
 - `35fcc86` [feat(dotnet): credential injection and offload (#2535) (#2581)](https://github.com/microsoft/agent-governance-toolkit/commit/35fcc86a78934160294aaa9d41fc3c44e9a4e9ee) — Imran Siddique · 2026-05-25

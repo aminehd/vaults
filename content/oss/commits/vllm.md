@@ -14,7 +14,9 @@ updated: 2026-05-26
 ## Commits
 
 - `ec5de7f` [[../concepts/lora|LoRA]] Add one shot [[../concepts/triton-kernels|triton kernel]] For [[../concepts/mixture-of-experts|MoE]] LoRA (#42290)](https://github.com/vllm-project/vllm/commit/ec5de7fa7d1303051ccd6c7316171b6d70bac4b4) — Jee Jee Li · 2026-05-26
+→ touches: `csrc/moe/` — adds a new Triton kernel for MoE LoRA for faster performance.
 - `71d810b` [[XPU] Ensure RNG offset alignment with PyTorch requirements in XPU sampler (#43028)](https://github.com/vllm-project/vllm/commit/71d810bbf44b34f3a019730a6878fbcbf2480499) — Chaojun Zhang · 2026-05-26
+→ touches: `vllm/model_executor/` — aligns the random number generator with PyTorch requirements for XPU compatibility.
 - `d400445` [[Kernel] Remove NormGateLinear (#43554)](https://github.com/vllm-project/vllm/commit/d4004455d2357985830af10e432709b42c820455) — Jee Jee Li · 2026-05-25
 - `716d529` [[Misc] Print accuracy value for PD tests even on success  (#43583)](https://github.com/vllm-project/vllm/commit/716d5294e6db16fe1d8afb09a061694cf4602d7e) — Nicolò Lucchesi · 2026-05-25
 - `873758c` [[../concepts/kv-connector|KV Connector]] Handle Mooncake finish after preemption (#43281)](https://github.com/vllm-project/vllm/commit/873758c13a64742e2a0247e0f2c62cadf027dd2b) — Zhewen Li · 2026-05-25
