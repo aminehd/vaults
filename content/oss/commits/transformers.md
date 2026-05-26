@@ -1,18 +1,22 @@
 ---
 repo: "Transformers"
 slug: transformers
-commits_7d: 37
-updated: 2026-05-25
+commits_7d: 36
+updated: 2026-05-26
 ---
 
 # Transformers — Recent Commits (7d)
 
-**37 commits this week** · [GitHub](https://github.com/huggingface/transformers/commits)
+**36 commits this week** · [GitHub](https://github.com/huggingface/transformers/commits)
 
 ← [[../transformers|Back to Transformers]]
 
 ## Commits
 
+- `ceb7ba6` [Fix Gemma4 use_bidirectional_attention="all" mask behavior (#46079)](https://github.com/huggingface/transformers/commit/ceb7ba69722a2f677ed0138e3d6933f34f4164ce) — Oliver Holworthy · 2026-05-26
+- `4a2e365` [Fix loading with only 1 device or distributed config (#46197)](https://github.com/huggingface/transformers/commit/4a2e3652facc3579704fe8b10b8fbd4ab2879620) — Cyril Vallez · 2026-05-26
+- `ece1ea0` [Fix TypeError on list-typed ignore_keys_at_rope_validation in RoPE config (#46142)](https://github.com/huggingface/transformers/commit/ece1ea0635367989ad4dfab0c084bcc57e5d897b) — Carlos Redondo · 2026-05-25
+- `7bc093b` [Support XPU autocast dtype fallback for FlashAttention (#46199)](https://github.com/huggingface/transformers/commit/7bc093b71ecc42204b48cd6abf65a437f73655ad) — YangKai0616 · 2026-05-25
 - `eaaaf84` [Fix path traversal when saving named chat templates (#46191)](https://github.com/huggingface/transformers/commit/eaaaf8494dd5386634ae37d1d122212fdc315be5) — Ziyu Lin · 2026-05-25
 - `47949d3` [Fix is_last off-by-one in MaskGenerationPipeline for partial batches (#46136)](https://github.com/huggingface/transformers/commit/47949d3a0e1cf9248f2a3eb3cd0deb12ee37b9e9) — Jeremy Perera · 2026-05-25
 - `118ddfb` [Fix wrong variable in check_model_type isinstance check (#46080)](https://github.com/huggingface/transformers/commit/118ddfb69cc9911255e6d3465f61c78d1627102b) — Sebastien Tardif · 2026-05-25
@@ -29,7 +33,3 @@ updated: 2026-05-25
 - `ae7e60d` [[loading] Free up tensors faster inside ConversionOps (#46110)](https://github.com/huggingface/transformers/commit/ae7e60d7aae6a64b9b4d53bd115b4a9b5ac351e7) — Cyril Vallez · 2026-05-20
 - `7a52743` [Restore test utils fix (#46065)](https://github.com/huggingface/transformers/commit/7a52743626cea1948df33a85a4582e83909c407a) — Rémi Ouazan · 2026-05-20
 - `0137dee` [Allow `ydshieh2` for now for testing migration (#46105)](https://github.com/huggingface/transformers/commit/0137deeb65e4d03f9015a1c9cfccec524ac52fe9) — Yih-Dar · 2026-05-20
-- `4dbb358` [[Fix] Remove calls to unsupported functions in TP (#46103)](https://github.com/huggingface/transformers/commit/4dbb3587fba5e9ea160828dba5d97d82c050e49a) — Rémi Ouazan · 2026-05-20
-- `5fc9bba` [[docs] reasoning support for transformers serve (#46094)](https://github.com/huggingface/transformers/commit/5fc9bba7fec03cdb663d30822dde095b4ed26810) — Steven Liu · 2026-05-20
-- `f4c5ae1` [Fix torchao behavior for xpu (#46096)](https://github.com/huggingface/transformers/commit/f4c5ae11c77b20e997a270329779f1dca472e35e) — jiqing-feng · 2026-05-20
-- `883c731` [🚨🚨🚨 [Trainer] Default to FSDP2, simplify API around fsdp + fsdp_config (#45640)](https://github.com/huggingface/transformers/commit/883c731bcacbbfe14babe7b9a60d5b9994708870) — Marc Sun · 2026-05-20

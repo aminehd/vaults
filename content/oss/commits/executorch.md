@@ -1,18 +1,19 @@
 ---
 repo: "ExecuTorch"
 slug: executorch
-commits_7d: 100
-updated: 2026-05-25
+commits_7d: 99
+updated: 2026-05-26
 ---
 
 # ExecuTorch — Recent Commits (7d)
 
-**100 commits this week** · [GitHub](https://github.com/pytorch/executorch/commits)
+**99 commits this week** · [GitHub](https://github.com/pytorch/executorch/commits)
 
 ← [[../executorch|Back to ExecuTorch]]
 
 ## Commits
 
+- `03e14ef` [Arm backend: Add bf16 support for aten.index_select and aten.unfold_copy (#19751)](https://github.com/pytorch/executorch/commit/03e14ef8b3964deb589f3f172b4bbee7d206795a) — Youngsik Yang · 2026-05-25
 - `b73df0b` [NXP backend: Enable Sub Tensor with new Neutron flow (#19588)](https://github.com/pytorch/executorch/commit/b73df0b4696885c6e03f3789daeece8376078364) — roman-janik-nxp · 2026-05-25
 - `ee4c90a` [Arm backend: Exclude build metadata from license checks](https://github.com/pytorch/executorch/commit/ee4c90ad03f33398cbfa93cfed09caf04fca6099) — Per Held · 2026-05-25
 - `ba6074c` [Back out "Globally serialize XNNPACK execution, add logging" (#19752)](https://github.com/pytorch/executorch/commit/ba6074c3868abb8f602a22565445b52f8b5bdfb1) — Julian Chan · 2026-05-25
@@ -32,4 +33,3 @@ updated: 2026-05-25
 - `9dac74d` [Improve Gemma4 MLX perf by removing redundant casts  (#19732)](https://github.com/pytorch/executorch/commit/9dac74d8c087d9d654b554036088aa1668478664) — Scott Roy · 2026-05-22
 - `e6b8df8` [Qualcomm AI Engine Direct - Adding QNN backend support for select_scatter core ATen op (#19704)](https://github.com/pytorch/executorch/commit/e6b8df849c145644c06e378b89ffb59cbb4cc3da) — qti-horodnic · 2026-05-22
 - `90a7cdb` [Arm backend: fix(arm): validate partitions for dependency cycles after Q/DQ de-tagging (#18191)](https://github.com/pytorch/executorch/commit/90a7cdb5da0119b790a5309a8452f67f1ef918dc) — Beom Woo Kang · 2026-05-22
-- `686522a` [remove deprecated guard_size_oblivious from stride sorting logic in exir. (#19516)](https://github.com/pytorch/executorch/commit/686522ac83b9a0b1d25698d14dbb544175cc0304) — Laith Sakka · 2026-05-22

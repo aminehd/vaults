@@ -1,13 +1,13 @@
 ---
 repo: "Triton"
 slug: triton
-commits_7d: 20
-updated: 2026-05-25
+commits_7d: 19
+updated: 2026-05-26
 ---
 
 # Triton — Recent Commits (7d)
 
-**20 commits this week** · [GitHub](https://github.com/openai/triton/commits)
+**19 commits this week** · [GitHub](https://github.com/openai/triton/commits)
 
 ← [[../triton|Back to Triton]]
 
@@ -32,4 +32,3 @@ updated: 2026-05-25
 - `ed8317b` [[AMD][GFX9] Optimize warp-uniform direct to LDS predicates (#10332)](https://github.com/triton-lang/triton/commit/ed8317b20881e443aaf6c91d161cbacf6143dc53) — Alexander Weinrauch · 2026-05-19
 - `fdfc3f9` [[PROTON] Allow out-of-tree backends to register Proton profilers, devices and runtimes. (#10246)](https://github.com/triton-lang/triton/commit/fdfc3f92f533901adb32ad4fb6b9271d9353fb4e) — George Wigley · 2026-05-19
 - `0bdab22` [Allow Gluon local_store with mismatched CGA layout (#10296)](https://github.com/triton-lang/triton/commit/0bdab22f0ff751016fb5c3ff92a9867d1fb69483) — Thomas Raoux · 2026-05-19
-- `839fde3` [[Interpreter] Fix maximum/minimum/clamp NaN handling to match JIT semantics (#10333)](https://github.com/triton-lang/triton/commit/839fde37a44cc5a28569c936ff8cd70626cdf1e9) — Chennes · 2026-05-18

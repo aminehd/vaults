@@ -2,11 +2,11 @@
 id: oss/gymnasium
 display: Gymnasium
 area: rl
-stars: 11943
+stars: 11945
 commits_7d: 0
 tags: [oss, rl, python]
 source_url: https://github.com/Farama-Foundation/Gymnasium
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Gymnasium

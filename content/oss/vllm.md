@@ -2,11 +2,11 @@
 id: oss/vllm
 display: vLLM
 area: inference
-stars: 80971
+stars: 81009
 commits_7d: 100
 tags: [oss, inference, python, cuda, transformers]
 source_url: https://github.com/vllm-project/vllm
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # vLLM

@@ -2,13 +2,13 @@
 repo: "PEFT"
 slug: peft
 gfi_count: 1
-commits_7d: 9
-updated: 2026-05-25
+commits_7d: 8
+updated: 2026-05-26
 ---
 
 # PEFT — Good First Issues
 
-**1 open** · **9 commits this week** · [All GFIs](https://github.com/huggingface/peft/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
+**1 open** · **8 commits this week** · [All GFIs](https://github.com/huggingface/peft/issues?q=is%3Aopen+label%3A%22good+first+issue%22)
 
 ← [[../peft|Back to PEFT]]
 

@@ -3,7 +3,7 @@ repo: "SGLang"
 slug: sglang
 gfi_count: 5
 commits_7d: 100
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # SGLang — Good First Issues

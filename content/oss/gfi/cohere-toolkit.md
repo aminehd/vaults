@@ -3,7 +3,7 @@ repo: "Cohere Toolkit"
 slug: cohere-toolkit
 gfi_count: 3
 commits_7d: 0
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Cohere Toolkit — Good First Issues
@@ -14,6 +14,6 @@ updated: 2026-05-25
 
 ## Open Issues
 
-- [Add FinishReason enum on server side](https://github.com/cohere-ai/cohere-toolkit/issues/914) — 489d old
-- [Automate psycopg2 to psycopg2-binary Switch for Apple Silicon](https://github.com/cohere-ai/cohere-toolkit/issues/883) — 524d old
-- [PostgreSQL Installation Required for Local Development](https://github.com/cohere-ai/cohere-toolkit/issues/882) — 524d old
+- [Add FinishReason enum on server side](https://github.com/cohere-ai/cohere-toolkit/issues/914) — 490d old
+- [Automate psycopg2 to psycopg2-binary Switch for Apple Silicon](https://github.com/cohere-ai/cohere-toolkit/issues/883) — 525d old
+- [PostgreSQL Installation Required for Local Development](https://github.com/cohere-ai/cohere-toolkit/issues/882) — 525d old

@@ -2,7 +2,7 @@
 repo: "FlashAttention"
 slug: flashattention
 commits_7d: 5
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # FlashAttention — Recent Commits (7d)

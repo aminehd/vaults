@@ -1,13 +1,13 @@
 ---
 repo: "Unsloth"
 slug: unsloth
-commits_7d: 84
-updated: 2026-05-25
+commits_7d: 82
+updated: 2026-05-26
 ---
 
 # Unsloth — Recent Commits (7d)
 
-**84 commits this week** · [GitHub](https://github.com/unslothai/unsloth/commits)
+**82 commits this week** · [GitHub](https://github.com/unslothai/unsloth/commits)
 
 ← [[../unsloth|Back to Unsloth]]
 

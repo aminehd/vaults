@@ -6,7 +6,7 @@ stars: 27259
 commits_7d: 0
 tags: [oss, learning, python, pytorch]
 source_url: https://github.com/QwenLM/Qwen2.5
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Qwen2.5

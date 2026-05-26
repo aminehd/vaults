@@ -1,13 +1,13 @@
 ---
 repo: "Kaito"
 slug: kaito
-commits_7d: 9
-updated: 2026-05-25
+commits_7d: 8
+updated: 2026-05-26
 ---
 
 # Kaito — Recent Commits (7d)
 
-**9 commits this week** · [GitHub](https://github.com/kaito-project/kaito/commits)
+**8 commits this week** · [GitHub](https://github.com/kaito-project/kaito/commits)
 
 ← [[../kaito|Back to Kaito]]
 
@@ -21,4 +21,3 @@ updated: 2026-05-25
 - `6aaff7e` [feat: add guardrails scanner capability validation (#2039)](https://github.com/kaito-project/kaito/commit/6aaff7e60380d9873cfc4d05bd46e4eec4cc0f9e) — YiqiWANG · 2026-05-21
 - `4074b86` [proposal: support auto upgrade for Kaito base image  (#2036)](https://github.com/kaito-project/kaito/commit/4074b86d0d31f95c53e92320698d3b9b231ce857) — zhehli688 · 2026-05-20
 - `0c4ce3e` [feat: ragengine guardrails reload observability (#2038)](https://github.com/kaito-project/kaito/commit/0c4ce3e21309a37712591efac86b074c602555a8) — YiqiWANG · 2026-05-19
-- `a76c28a` [fix: Deepseek r1/v3 models tokenization issue (#2053)](https://github.com/kaito-project/kaito/commit/a76c28a183680a72dfa8af9936a523dee2014e2a) — zhehli688 · 2026-05-19

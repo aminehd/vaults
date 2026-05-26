@@ -1,13 +1,13 @@
 ---
 repo: "llm-compressor"
 slug: llm-compressor
-commits_7d: 17
-updated: 2026-05-25
+commits_7d: 15
+updated: 2026-05-26
 ---
 
 # llm-compressor — Recent Commits (7d)
 
-**17 commits this week** · [GitHub](https://github.com/vllm-project/llm-compressor/commits)
+**15 commits this week** · [GitHub](https://github.com/vllm-project/llm-compressor/commits)
 
 ← [[../llm-compressor|Back to llm-compressor]]
 
@@ -28,5 +28,3 @@ updated: 2026-05-25
 - `58bcff7` [[Tracing] Support tracing cache (#2686)](https://github.com/vllm-project/llm-compressor/commit/58bcff7a7a1e7b7c13131890e85152cc5f1ec684) — Kyle Sayers · 2026-05-19
 - `2077221` [Update observer and modifier docs for refactored observer API (#2671)](https://github.com/vllm-project/llm-compressor/commit/207722119305dcfe697f5e1b55898c5e1db8a01e) — HDCharles · 2026-05-19
 - `b7ed77a` [Fix coverage.py database corruption in DDP tests (#2726)](https://github.com/vllm-project/llm-compressor/commit/b7ed77a71e438898716616a9952c69604ef14712) — HDCharles · 2026-05-19
-- `7297f5e` [refactor: modernize modifiers module with Python 3.10+ type hints (#2704)](https://github.com/vllm-project/llm-compressor/commit/7297f5e53bdb6ef89250af9cad2e9610f0ed946b) — dshane1903 · 2026-05-19
-- `f35068e` [[LM Eval] Update lm eval tests to spin-up vLLM (#2710)](https://github.com/vllm-project/llm-compressor/commit/f35068ec34b9b2f8495b5c2e2ce12c9b8c5a719c) — Dipika Sikka · 2026-05-18

@@ -1,18 +1,19 @@
 ---
 repo: "LangChain"
 slug: langchain
-commits_7d: 69
-updated: 2026-05-25
+commits_7d: 57
+updated: 2026-05-26
 ---
 
 # LangChain — Recent Commits (7d)
 
-**69 commits this week** · [GitHub](https://github.com/langchain-ai/langchain/commits)
+**57 commits this week** · [GitHub](https://github.com/langchain-ai/langchain/commits)
 
 ← [[../langchain|Back to LangChain]]
 
 ## Commits
 
+- `69d9e95` [chore(model-profiles): refresh model profile data (#37650)](https://github.com/langchain-ai/langchain/commit/69d9e95ef49a3af57a8bb414916fdc4bbcece796) — langchain-model-profile-bot[bot] · 2026-05-26
 - `33875fd` [ci(infra): serialize integration test shards across runs (#37648)](https://github.com/langchain-ai/langchain/commit/33875fde2acf6ffb717915a895638274a6098ec2) — Mason Daugherty · 2026-05-23
 - `2638f75` [feat(standard-tests): forward LangSmith CI env vars to traces (#37645)](https://github.com/langchain-ai/langchain/commit/2638f75e1331caa4e114654dcdf3b8b20ca3bc37) — Mason Daugherty · 2026-05-23
 - `bdd7f71` [ci(infra): trace scheduled integration tests (#37615)](https://github.com/langchain-ai/langchain/commit/bdd7f71a1b426675a83915dbd68107ceca069fc8) — Mason Daugherty · 2026-05-23
@@ -32,4 +33,3 @@ updated: 2026-05-25
 - `3c4cb50` [fix(fireworks): retry on bare `APIConnectionError`, default `max_retries=2` (#37602)](https://github.com/langchain-ai/langchain/commit/3c4cb503a069ca1b358cc240c4308b82610ae55e) — Mason Daugherty · 2026-05-21
 - `9545d05` [test(fireworks): stabilize integration tests with rate limiting and retries (#37590)](https://github.com/langchain-ai/langchain/commit/9545d058823b38421f943edd4ff1407e199fecb3) — Mason Daugherty · 2026-05-21
 - `515f1f4` [test(openai): unbreak audio chat and Azure embedding integration tests (#37589)](https://github.com/langchain-ai/langchain/commit/515f1f4536a648438ca889f878e927cdd32e122b) — Mason Daugherty · 2026-05-21
-- `4d2efcd` [test(mistralai): stabilize integration tests with rate limiting and retries (#37588)](https://github.com/langchain-ai/langchain/commit/4d2efcd7560666080a4253c1d860adb318789cb8) — Mason Daugherty · 2026-05-21

@@ -2,7 +2,7 @@
 repo: "LlamaIndex"
 slug: llamaindex
 commits_7d: 31
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # LlamaIndex — Recent Commits (7d)

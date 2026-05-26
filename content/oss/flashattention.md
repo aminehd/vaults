@@ -2,11 +2,11 @@
 id: oss/flashattention
 display: FlashAttention
 area: kernels
-stars: 23902
+stars: 23909
 commits_7d: 5
 tags: [oss, kernels, cuda, c]
 source_url: https://github.com/Dao-AILab/flash-attention
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # FlashAttention

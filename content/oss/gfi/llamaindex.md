@@ -3,7 +3,7 @@ repo: "LlamaIndex"
 slug: llamaindex
 gfi_count: 0
 commits_7d: 31
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # LlamaIndex — Good First Issues

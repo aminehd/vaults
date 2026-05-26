@@ -1,13 +1,13 @@
 ---
 repo: "PEFT"
 slug: peft
-commits_7d: 9
-updated: 2026-05-25
+commits_7d: 8
+updated: 2026-05-26
 ---
 
 # PEFT — Recent Commits (7d)
 
-**9 commits this week** · [GitHub](https://github.com/huggingface/peft/commits)
+**8 commits this week** · [GitHub](https://github.com/huggingface/peft/commits)
 
 ← [[../peft|Back to PEFT]]
 
@@ -21,4 +21,3 @@ updated: 2026-05-25
 - `baa6a04` [FEAT Add MonteCLoRA (#2943)](https://github.com/huggingface/peft/commit/baa6a04316072ce2e15d9e1f3da9954692d27589) — victor7246 · 2026-05-21
 - `1a27bed` [CI Remove Transformer Engine from Dockerfile (#3248)](https://github.com/huggingface/peft/commit/1a27bed812086f51ed0ee8ac73caf208eff66a47) — Benjamin Bossan · 2026-05-20
 - `cacc52f` [DOC Improve MiSS documentation (#3231)](https://github.com/huggingface/peft/commit/cacc52fb4f4c9d8546b8c7216e3e83535ab624a8) — Vedant Navle · 2026-05-20
-- `9403de1` [FIX Duplicated "for" in adapters warning message (#3235)](https://github.com/huggingface/peft/commit/9403de1a75e798d65644f84e43ddbfd90c6bd492) — vip892766gma · 2026-05-19

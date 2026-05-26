@@ -2,11 +2,11 @@
 id: oss/deepseek-v3
 display: DeepSeek-V3
 area: learning
-stars: 103616
+stars: 103622
 commits_7d: 0
 tags: [oss, learning, python, pytorch]
 source_url: https://github.com/deepseek-ai/DeepSeek-V3
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # DeepSeek-V3

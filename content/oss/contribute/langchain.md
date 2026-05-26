@@ -2,7 +2,7 @@
 repo: "LangChain"
 slug: langchain
 issues_count: 6
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # LangChain — Contribution Opportunities
@@ -14,7 +14,7 @@ Huge ecosystem, always needs integration contributions (new tools, retrievers).
 ## Open Issues (6)
 
 - **[#37673 VectorStore.add_texts exhausts generator inputs before creating documents](https://github.com/langchain-ai/langchain/issues/37673)** `bug` `core` `external`
-  opened 2026-05-24 · 4 comments
+  opened 2026-05-24 · 5 comments
   > ### Submission checklist  - [x] This is a bug, not a usage question. - [x] I added a clear and descriptive title that summarizes this issue. - [x] I used the GitHub search to find a similar question a
 
 - **[#37619 bug: RePhraseQueryRetriever._aget_relevant_documents raises NotImplementedError](https://github.com/langchain-ai/langchain/issues/37619)** `bug` `langchain-classic` `external`

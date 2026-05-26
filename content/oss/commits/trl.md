@@ -1,18 +1,19 @@
 ---
 repo: "TRL"
 slug: trl
-commits_7d: 27
-updated: 2026-05-25
+commits_7d: 28
+updated: 2026-05-26
 ---
 
 # TRL — Recent Commits (7d)
 
-**27 commits this week** · [GitHub](https://github.com/huggingface/trl/commits)
+**28 commits this week** · [GitHub](https://github.com/huggingface/trl/commits)
 
 ← [[../trl|Back to TRL]]
 
 ## Commits
 
+- `a999373` [Add Qwen2.5-VL original and training chat template with generation markers (#5838)](https://github.com/huggingface/trl/commit/a9993736c2250da0b3d2f206ec217f144b891e5a) — Alexandr Azizyan · 2026-05-25
 - `a0d909b` [⬆️ Bump dev version (#5836)](https://github.com/huggingface/trl/commit/a0d909b1a099b4cf52ee12648142a4cd7d39ca04) — Quentin Gallouédec · 2026-05-25
 - `bd1e73f` [Release: v1.5 (#5835)](https://github.com/huggingface/trl/commit/bd1e73f0a86443d40ab8dc82b0cf8f8694246565) — Quentin Gallouédec · 2026-05-25
 - `fb9cb79` [Add Qwen3.5 Think/NoThink training chat templates with generation markers (#5824)](https://github.com/huggingface/trl/commit/fb9cb790b144a9a3a3a90b7f3c32572157ba0398) — Alexandr Azizyan · 2026-05-25
@@ -32,4 +33,3 @@ updated: 2026-05-25
 - `661ffa9` [Fix catch-all empty string in Makefile pytest --only-rerun (#5784)](https://github.com/huggingface/trl/commit/661ffa9b92fc10e02e3ad5f9e322d75e4990d362) — Albert Villanova del Moral · 2026-05-21
 - `bbb3976` [Fix OOM in CI by reducing batch size in GRPO/RLOO VLM tests (#5767)](https://github.com/huggingface/trl/commit/bbb39766cf36a7c42031a91d3fdd97478992a939) — Albert Villanova del Moral · 2026-05-21
 - `4dddc63` [Fix tiny Qwen3-VL `deepstack_visual_indexes` and drop the test skip (#5779)](https://github.com/huggingface/trl/commit/4dddc63e4756bdfa7305babfd4d792d094a8626b) — Quentin Gallouédec · 2026-05-21
-- `afad4d9` [Align tiny Qwen2.5-VL with Qwen/Qwen2.5-VL-3B-Instruct (#5739)](https://github.com/huggingface/trl/commit/afad4d92a8d8aab40f015a9d7ddcba93bfb3a6ec) — Quentin Gallouédec · 2026-05-21

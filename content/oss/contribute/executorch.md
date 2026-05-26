@@ -2,7 +2,7 @@
 repo: "ExecuTorch"
 slug: executorch
 issues_count: 3
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # ExecuTorch — Contribution Opportunities

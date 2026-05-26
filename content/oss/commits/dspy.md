@@ -1,18 +1,19 @@
 ---
 repo: "DSPy"
 slug: dspy
-commits_7d: 10
-updated: 2026-05-25
+commits_7d: 11
+updated: 2026-05-26
 ---
 
 # DSPy — Recent Commits (7d)
 
-**10 commits this week** · [GitHub](https://github.com/stanfordnlp/dspy/commits)
+**11 commits this week** · [GitHub](https://github.com/stanfordnlp/dspy/commits)
 
 ← [[../dspy|Back to DSPy]]
 
 ## Commits
 
+- `fa150fb` [docs: add normalized LM API migration plan (#9828)](https://github.com/stanfordnlp/dspy/commit/fa150fba2095de6d7b135e4f71ff3f0cc91c635c) — Maxime Rivest · 2026-05-25
 - `e608bc0` [Normalize DSPy LM errors (#9826)](https://github.com/stanfordnlp/dspy/commit/e608bc024c8ede143d1dba877106ba6e22a7222b) — Maxime Rivest · 2026-05-25
 - `77cb233` [Make BaseLM own shared LM runtime state (#9821)](https://github.com/stanfordnlp/dspy/commit/77cb233156edebcaec7338422745316f8c5e70cd) — Maxime Rivest · 2026-05-24
 - `492c559` [Support BaseLM state serialization (#9820)](https://github.com/stanfordnlp/dspy/commit/492c5597a823a1a0f593283776d77773c482f70e) — Maxime Rivest · 2026-05-24

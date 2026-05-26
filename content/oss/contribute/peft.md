@@ -2,7 +2,7 @@
 repo: "PEFT"
 slug: peft
 issues_count: 3
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # PEFT — Contribution Opportunities

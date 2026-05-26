@@ -3,7 +3,7 @@ repo: "Agent Governance Toolkit"
 slug: agent-governance-toolkit
 gfi_count: 0
 commits_7d: 100
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Agent Governance Toolkit — Good First Issues

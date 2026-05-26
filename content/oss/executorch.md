@@ -2,16 +2,16 @@
 id: oss/executorch
 display: ExecuTorch
 area: inference
-stars: 4655
-commits_7d: 100
+stars: 4659
+commits_7d: 99
 tags: [oss, inference, python, pytorch, c]
 source_url: https://github.com/pytorch/executorch
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # ExecuTorch
 
-- **Commits (7d):** 100
+- **Commits (7d):** 99
 - **Good first issues:** 5
 
 - [Good First Issue: Enable Gemma 4 on MLX Backend](https://github.com/pytorch/executorch/issues/18928)

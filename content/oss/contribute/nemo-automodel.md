@@ -2,7 +2,7 @@
 repo: "NeMo Automodel"
 slug: nemo-automodel
 issues_count: 6
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # NeMo Automodel — Contribution Opportunities

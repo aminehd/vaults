@@ -2,7 +2,7 @@
 repo: "llm-compressor"
 slug: llm-compressor
 issues_count: 6
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # llm-compressor — Contribution Opportunities

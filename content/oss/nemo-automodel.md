@@ -3,15 +3,15 @@ id: oss/nemo-automodel
 display: NeMo Automodel
 area: training
 stars: 523
-commits_7d: 35
+commits_7d: 30
 tags: [oss, training, python, pytorch]
 source_url: https://github.com/NVIDIA-NeMo/Automodel
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # NeMo Automodel
 
-- **Commits (7d):** 35
+- **Commits (7d):** 30
 - **Good first issues:** 5
 
 - [Support Falcon H1](https://github.com/NVIDIA-NeMo/Automodel/issues/2241)

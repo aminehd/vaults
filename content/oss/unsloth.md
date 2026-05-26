@@ -2,16 +2,16 @@
 id: oss/unsloth
 display: Unsloth
 area: training
-stars: 65115
-commits_7d: 84
+stars: 65130
+commits_7d: 82
 tags: [oss, training, python, pytorch, triton]
 source_url: https://github.com/unslothai/unsloth
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Unsloth
 
-- **Commits (7d):** 84
+- **Commits (7d):** 82
 - **Good first issues:** 5
 
 - [Docs: current Codex local llama.cpp guide does not work as written with Responses API](https://github.com/unslothai/unsloth/issues/5141)

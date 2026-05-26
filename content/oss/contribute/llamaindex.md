@@ -2,7 +2,7 @@
 repo: "LlamaIndex"
 slug: llamaindex
 issues_count: 5
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # LlamaIndex — Contribution Opportunities

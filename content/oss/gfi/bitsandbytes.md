@@ -3,7 +3,7 @@ repo: "bitsandbytes"
 slug: bitsandbytes
 gfi_count: 0
 commits_7d: 2
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # bitsandbytes — Good First Issues
