@@ -1,0 +1,3 @@
+[submodule "content/ml-kickstart"]
+	path = content/ml-kickstart
+	url = https://github.com/aminehd/ml-kickstart
