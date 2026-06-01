@@ -1,3 +1,15 @@
 [submodule "content/ml-kickstart"]
 	path = content/ml-kickstart
 	url = https://github.com/aminehd/ml-kickstart
+
+[submodule "content/scale-ai"]
+	path = content/scale-ai
+	url = https://github.com/aminehd/scale-ai-vault
+
+[submodule "content/google-interview"]
+	path = content/google-interview
+	url = https://github.com/aminehd/google-interview-vault
+
+[submodule "content/oss"]
+	path = content/oss
+	url = https://github.com/aminehd/oss-vault
