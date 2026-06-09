@@ -15,6 +15,9 @@ Reader works top to bottom, one chunk per day.
 - https://arxiv.org/abs/2010.11929
 
 # ── LAYER 2: SELF-SUPERVISED LEARNING ─────────────────────────────────────
+# SimCLR — the foundational contrastive SSL paper everyone references
+- https://arxiv.org/abs/2002.05709
+
 # BYOL — learn without negative pairs (invariance-based SSL)
 - https://arxiv.org/abs/2006.07733
 
