@@ -1,0 +1,22 @@
+[
+  {
+    "front": "Why does the inherently sequential nature of RNNs limit them on long sequences?",
+    "back": "Each hidden state h_t depends on h_{t-1}, so computation can't be parallelized across positions within an example. At long sequence lengths this serial chain becomes a training-time and memory bottleneck."
+  },
+  {
+    "front": "What does the Transformer remove from prior sequence-transduction architectures, and what does it keep?",
+    "back": "It dispenses with recurrence and convolutions entirely, relying solely on attention mechanisms."
+  },
+  {
+    "front": "Before the Transformer, how was attention typically used in sequence models?",
+    "back": "As an add-on connecting the encoder and decoder of otherwise recurrent/convolutional models \u2014 not as the core computation. The Transformer's insight is making attention the whole architecture."
+  },
+  {
+    "front": "Why is being 'more parallelizable' the key practical payoff of the Transformer?",
+    "back": "Removing the step-by-step recurrent dependency lets the whole sequence be processed at once, cutting training time (e.g. SOTA EN-FR BLEU of 41.8 in 3.5 days on 8 GPUs, a fraction of prior costs)."
+  },
+  {
+    "front": "What evidence suggests the Transformer is a general architecture, not just a translation model?",
+    "back": "It transfers successfully to English constituency parsing with both large and limited training data, in addition to beating SOTA on WMT 2014 EN-DE (28.4 BLEU) and EN-FR (41.8 BLEU)."
+  }
+]
